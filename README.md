@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+%2F+Fullstack+Developer;NestJS+%7C+Next.js+%7C+React;Building+Scalable+Web+Applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+%2F+Frontend+Developer;NestJS+%7C+Next.js+%7C+React;\"/>
 </p>
 
 ---
